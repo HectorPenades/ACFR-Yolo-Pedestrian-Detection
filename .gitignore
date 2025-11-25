@@ -1,0 +1,6 @@
+Images_to_evaluate/eval_viz/
+Images_to_evaluate/extracted_images_RGB/
+Images_to_evaluate/extracted_images_thermal/
+Images_to_evaluate/extracted_images_zoomed/
+Images_to_evaluate/runs_all_in_one/
+model/
